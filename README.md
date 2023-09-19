@@ -1,8 +1,14 @@
-# React + Vite
+# Landing-Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto simples para estudo de React e CSS/SASS, simples de visualizar e rodar localmente, para conferir o site localmente, rode os comandos:
 
-Currently, two official plugins are available:
+- npm install
+- npm run build
+- npm run preview 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Um link será mostrado com o endereço 127.0.0.1/localhost, sua máquina local, abra o link no seu navegador de preferência e o site estará pronto para visualização.
+
+É esperado que o projeto se mostre localmente como:
+
+<img src="./assets/exemplo landing page.png"/>
+
